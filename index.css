@@ -1,0 +1,84 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+#bod{
+    background-image:url(5540025.jpg);
+    background-blend-mode: multiply;
+    color: white;
+    background-size: cover;
+  
+    
+}
+#mai{
+   
+    width: 45%;
+    height:1000px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.name{
+    font-family: 'Great Vibes', cursive;
+    font-size: 100px;
+
+}
+
+
+span{
+    color: rgb(73, 72, 72);
+    font-size: 150px;
+}
+
+
+a{
+    text-decoration: none;
+    color: red;
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+
+nav{
+    border: red solid 3px;
+    background-color: rgb(51, 49, 51);
+}
+
+
+/* CSS STYLES FOR THE ABOUT.HTML FILE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+body{
+    background-image:url(leopard.jpg);
+    background-size: cover;
+}
+
+
+/* the container for the a tags */
+.container{
+    display: flex;
+    justify-content: flex-end;
+    
+
+   
+}
+
+
+/* THE brahim coulibaly name in left top corner */
+.bc{
+    color: aqua;
+    position: relative;
+    bottom: 40px;
+}
+
+
+
+#picofhandstand{
+    width: 120px;
+
+}
+   
+    
+    
